@@ -12,3 +12,8 @@ start from alan turing, john mcarthy and co, then go to the algorithms, then go 
 | Criteria | Exemplary                                         | Adequate                                | Needs Improvement                                                |
 | -------- | ------------------------------------------------- | --------------------------------------- | ---------------------------------------------------------------- |
 |          | A deployed timeline is presented as a GitHub page | The code is incomplete and not deployed | The timeline is incomplete, not well researched and not deployed |
+
+## Timeline of ai, ml and algoithms
+| Name | year | Research contributed |
+|------|------|----------------------|
+| Alan Turing | 1950                 |
