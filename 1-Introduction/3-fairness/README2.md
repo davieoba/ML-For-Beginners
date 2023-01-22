@@ -11,10 +11,10 @@ note that all these things are also known as bias in data.
 > Allocation is when a gender or race is favoured
 
 
-> Quality of service: If you train the data for one specific scenario and reality is more complex than that so the application is unable to cater for all other scenarios.
+> Quality of service: If you train the data for one specific scenario and reality is more complex than that so the application is unable to cater for all other scenarios. a guy posted on twitter that he could not make use of the dispenser because it could not recognize his hands
 
 
-> Streyotyping (categorizing): Assigning a given race with a particular attributes, e.g black race is known for violence so Ai is trained to percieve black people as violent example is in coded bias documentary. 
+> Streyotyping (categorizing): Assigning a given race with a particular attributes, e.g black race is known for violence so Ai is trained to percieve black people as violent example is in coded bias documentary. Example is if you translate "he is a nurse", "she is a doctor" in turkish and then translate it to english it would be "he is a doctor" "she is a nurse"
 
 
 > Denigration: unfairly critizing a group
