@@ -24,3 +24,10 @@ note that all these things are also known as bias in data.
 
 ### Consequences of not considering other groups
 In  The Impact of Artificial Intelligence on Women’s Rights: A Legal Point of View by Cecilia Celeste Danesi, ppg 220 from zaynab's perspective it seems like history may repeat itself like in the case of the luddites. Apart from the cases mentioned above, what of the people that ai will take thier jobs away from them because they are not skilled enough.
+2. If someone applies for a loan and the person i rejected because of thier skin color
+3. if a woman applies for a role and her application is turned down because the ai was trained with data as a male domainated field etc
+4. if a black person is labelled as a criminal
+5. if a black person is unable to make use of services and equipments because it does not cater for them.
+
+
+Solution
