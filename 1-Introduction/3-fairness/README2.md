@@ -6,6 +6,8 @@ When I want to create an ai project I must be careful to consider all groups, di
   <li>Allocation </li>  <li>Denigration</li>  <li> Quality of service </li>  <li> Streyotyping </li> <li> Under or over representation </li>
 </ul>
 
+note that all these things are also known as bias in data.
+
 > Allocation is when a gender or race is favoured
 
 
@@ -15,8 +17,10 @@ When I want to create an ai project I must be careful to consider all groups, di
 > Streyotyping (categorizing): Assigning a given race with a particular attributes, e.g black race is known for violence so Ai is trained to percieve black people as violent example is in coded bias documentary. 
 
 
-> Denigration: unfairly critizing someone
+> Denigration: unfairly critizing a group
 
 
 > over or under representation: it is a joke that black peole don't swim, so imagine someone creates an ai app that does not allow a black person to register. The idea that a certain group is not seen a certain profession.
 
+### Consequences of not considering other groups
+In  The Impact of Artificial Intelligence on Women’s Rights: A Legal Point of View by Cecilia Celeste Danesi, ppg 220 from zaynab's perspective it seems like history may repeat itself like in the case of the luddites. Apart from the cases mentioned above, what of the people that ai will take thier jobs away from them because they are not skilled enough.
