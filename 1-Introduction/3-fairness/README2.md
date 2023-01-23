@@ -29,5 +29,12 @@ In  The Impact of Artificial Intelligence on Women’s Rights: A Legal Point of 
 4. if a black person is labelled as a criminal
 5. if a black person is unable to make use of services and equipments because it does not cater for them.
 
+> 💭 if I make use of real datasets and the datasets include biases which are by the way real, if I correct them then I have as well altered the datasets, is it not better to make use of the datasets the way they are which is also the way the world works. 
+> <i> Note </i> this illustration above is for some bias such as steryotype, 
+
+
+### Detecting Unfairness
+1. wrong assumptions
+2. inadequate data
 
 Solution
